@@ -193,6 +193,7 @@ sudo wget https://raw.githubusercontent.com/google/syzkaller/master/tools/create
 chmod +x create-image.sh
 ./create-image.sh
 ```
+![](https://github.com/BilibiliRiven/qemu_gdb_dbg_linux_kernel/blob/main/gen_image.png)
 
 ## 启动Qemu虚拟机
 ```
